@@ -1,0 +1,1 @@
+dotnet run -p Producer\Producer.csproj
